@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ViewFilmList</string>
+    <string-array name="TypeFilme">
+        <item></item>
+        <item>Посмотрено</item>
+        <item>Смотрю</item>
+        <item>Отложен</item>
+        <item>Пересматриваю</item>
+    </string-array>
+    <string-array name="TypeOp">
+    <item>Добавить</item>
+    <item>Удалить</item>
+    <item>Изменить</item>
+    <item>Поиск</item>
+</string-array>
+    <string-array name="Rate">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>
